@@ -1,0 +1,70 @@
+[
+    {
+        "package": "beekeeper",
+        "url": "https://github.com/jonthegeek/beekeeper"
+    },
+    {
+        "package": "nectar",
+        "url": "https://github.com/jonthegeek/nectar"
+    },
+    {
+        "package": "rapid",
+        "url": "https://github.com/jonthegeek/rapid"
+    },
+    {
+        "package": "anyapi",
+        "url": "https://github.com/jonthegeek/anyapi"
+    },
+    {
+        "package": "mockplumber",
+        "url": "https://github.com/jonthegeek/mockplumber"
+    },
+    {
+        "package": "stbl",
+        "url": "https://github.com/jonthegeek/stbl"
+    },
+    {
+        "package": "zoomer",
+        "url": "https://github.com/jonthegeek/zoomer"
+    },
+    {
+        "package": "trellor",
+        "url": "https://github.com/jonthegeek/trellor"
+    },
+    {
+        "package": "fecapi",
+        "url": "https://github.com/jonthegeek/fecapi"
+    },
+    {
+        "package": "asanar",
+        "url": "https://github.com/jonthegeek/asanar"
+    },
+    {
+        "package": "rli",
+        "url": "https://github.com/jonthegeek/rli"
+    },
+    {
+        "package": "youtubeR",
+        "url": "https://github.com/kevin-m-kent/youtubeR"
+    },
+    {
+        "package": "cookies",
+        "url": "https://github.com/r4ds/cookies"
+    },
+    {
+        "package": "scenes",
+        "url": "https://github.com/r4ds/scenes"
+    },
+    {
+        "package": "shinyslack",
+        "url": "https://github.com/r4ds/shinyslack"
+    },
+    {
+        "package": "tableguess",
+        "url": "https://github.com/jonthegeek/tableguess"
+    },
+    {
+        "package": "factory",
+        "url": "https://github.com/jonthegeek/factory"
+    }
+]
