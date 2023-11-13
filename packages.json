@@ -60,11 +60,47 @@
         "url": "https://github.com/r4ds/shinyslack"
     },
     {
+        "package": "torchtransformers",
+        "url": "https://github.com/macmillancontentscience/torchtransformers"
+    },
+    {
+        "package": "tidybert",
+        "url": "https://github.com/macmillancontentscience/tidybert"
+    },
+    {
+        "package": "dlr",
+        "url": "https://github.com/macmillancontentscience/dlr"
+    },
+    {
+        "package": "piecemaker",
+        "url": "https://github.com/macmillancontentscience/piecemaker"
+    },
+    {
+        "package": "wordpiece",
+        "url": "https://github.com/macmillancontentscience/wordpiece"
+    },
+    {
+        "package": "wordpiece.data",
+        "url": "https://github.com/macmillancontentscience/wordpiece.data"
+    },
+    {
+        "package": "morphemepiece",
+        "url": "https://github.com/macmillancontentscience/morphemepiece"
+    },
+    {
+        "package": "morphemepiece.data",
+        "url": "https://github.com/macmillancontentscience/morphemepiece.data"
+    },
+    {
         "package": "tableguess",
         "url": "https://github.com/jonthegeek/tableguess"
     },
     {
         "package": "factory",
         "url": "https://github.com/jonthegeek/factory"
+    },
+    {
+        "package": "aws.lambda",
+        "url": "https://github.com/cloudyr/aws.lambda"
     }
 ]
