@@ -21,7 +21,11 @@
     },
     {
         "package": "stbl",
-        "url": "https://github.com/jonthegeek/stbl"
+        "url": "https://github.com/api2r/stbl"
+    },
+    {
+        "package": "hrmn",
+        "url": "https://github.com/jonthegeek/hrmn"
     },
     {
         "package": "zoomer",
@@ -49,11 +53,27 @@
     },
     {
         "package": "cookies",
-        "url": "https://github.com/r4ds/cookies"
+        "url": "https://github.com/shinyworks/cookies"
+    },
+    {
+        "package": "favawesome",
+        "url": "https://github.com/shinyworks/favawesome"
     },
     {
         "package": "scenes",
-        "url": "https://github.com/r4ds/scenes"
+        "url": "https://github.com/shinyworks/scenes"
+    },
+    {
+        "package": "chains",
+        "url": "https://github.com/shinyworks/chains"
+    },
+    {
+        "package": "shinyfocus",
+        "url": "https://github.com/shinyworks/shinyfocus"
+    },
+    {
+        "package": "shinysocial",
+        "url": "https://github.com/shinyworks/shinysocial"
     },
     {
         "package": "shinyslack",
